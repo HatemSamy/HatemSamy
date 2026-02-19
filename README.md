@@ -8,7 +8,6 @@
 - 💻 Backend Developer with 2+ years of experience  
 - ⚡ Specialized in building scalable REST APIs using **Node.js, Express.js & NestJS**  
 - 🧠 Interested in AI integrations, system architecture & SaaS platforms  
-- 🌍 Based in Cairo, Egypt (Open to relocation & remote work)
 
 ---
 
