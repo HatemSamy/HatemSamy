@@ -25,16 +25,7 @@
 
 ---
 
-## 📂 Featured Projects
-- Online Food API  
-- Real-time Chat Application (WebSocket)  
-- LMS & Educational Platforms  
-- E-commerce APIs  
-- Hotel Booking System  
 
-👉 [Check all my projects](https://github.com/HatemSamy)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-samy-a4298a220/) 
