@@ -4,67 +4,47 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 Bachelor's Degree in Computer Science & Artificial Intelligence  
+- 🎓 Bachelor's in Computer Science & Artificial Intelligence  
 - 💻 Backend Developer with 2+ years of experience  
-- ⚡ Specialized in building scalable REST APIs using **Node.js, Express.js & NestJS**
+- ⚡ Specialized in building scalable REST APIs using **Node.js, Express.js & NestJS**  
 - 🧠 Interested in AI integrations, system architecture & SaaS platforms  
 - 🌍 Based in Cairo, Egypt (Open to relocation & remote work)
 
 ---
 
 ## 🔭 Current Focus
-
-- Building scalable backend systems with **NestJS & TypeScript**
-- Working with **AI-powered applications**
+- Building scalable backend systems with **NestJS & TypeScript**  
+- Working on **AI-powered applications**  
 - Writing clean, maintainable & production-ready code
 
 ---
 
 ## 🛠 Tech Stack
-
-### 👨‍💻 Backend
-- Node.js  
-- Express.js  
-- NestJS  
-- REST APIs  
-- GraphQL  
-- Socket.io  
-
-### 🗄 Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
-
-### ⚙ Tools & DevOps
-- Docker  
-- Git & GitHub  
-- Postman  
+**Backend:** Node.js | Express.js | NestJS | REST APIs | GraphQL | Socket.io  
+**Databases:** MongoDB | PostgreSQL | MySQL  
+**Tools & DevOps:** Docker | Git & GitHub | Postman
 
 ---
 
 ## 📂 Featured Projects
+- Online Food API  
+- Real-time Chat Application (WebSocket)  
+- LMS & Educational Platforms  
+- E-commerce APIs  
+- Hotel Booking System  
 
-🔹 Online Food API  
-🔹 Real-time Chat Application (WebSocket)  
-🔹 LMS & Educational Platforms  
-🔹 E-commerce APIs  
-🔹 Hotel Booking System  
-
-👉 Check all my repositories here:  
-🔗 https://github.com/HatemSamy
+👉 [Check all my projects](https://github.com/HatemSamy)
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: **hateemsamy@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/hatem-samy-a4298a220/  
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-samy-a4298a220/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hateemsamy@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100037657101500)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HatemSamy&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatemSamy&layout=compact&theme=tokyonight" />
